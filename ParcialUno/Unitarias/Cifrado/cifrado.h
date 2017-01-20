@@ -12,3 +12,4 @@ class Cifrado
         ~Cifrado(){}
         virtual int decrypt(string encrWord) = 0;
 };
+
